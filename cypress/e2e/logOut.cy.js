@@ -1,7 +1,7 @@
 ///<reference types="cypress-iframe" />
 
-describe('Log in test', () => {
-    it('Log in test', () => {
+describe('Log out test', () => {
+    it('Log out test', () => {
       const usernameTest = "cypress.test@gmail.com"
       const passwordTest = "Qwerty12345"
       const nametest = "A. QA Test"
